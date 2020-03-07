@@ -1,0 +1,9 @@
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe.config
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.pdb
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csprojAssemblyReference.cache
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.Form1.resources
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.Properties.Resources.resources
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.GenerateResource.cache
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.exe
+C:\Users\Kamson\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.pdb
